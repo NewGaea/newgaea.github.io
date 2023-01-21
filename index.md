@@ -4,7 +4,7 @@ A creative network of artists, authors, writers, developers, photographers, and 
 
 ## Our Network
 
-Our network is a collection of creative individuals who are passionate about their craft. We are a community coming together to share our work and help each other grow. We create our own standards, and we are not afraid to break the rules. 
+Our network is a collection of creative individuals who are passionate about their craft. We are a community coming together to share our work and help each other grow. We create our own standards, and we are not afraid to break the rules. **Find out more about our network, [here](/about.html).**
 
 ## Our Mission
 
