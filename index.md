@@ -21,3 +21,7 @@ Our mission is to support our member creatives in their creative processes by pr
 ## Note:
 
 Some of our members are not yet ready to share their work with the public. We are working on a way to share their work with our members only. Membership of New Gaea does not mean that each member agrees with every other member or their work. We are all individuals, and we all have our own opinions. We are all here to support each other, and we are all here to grow. However, every member of New Gaea is expected to be respectful of each other and their work, and to adhere to the rules of the network and our principles.
+
+---
+
+<a rel="me" href="https://eegle.cloud/@newgaea">Find us on Mastodon</a>
